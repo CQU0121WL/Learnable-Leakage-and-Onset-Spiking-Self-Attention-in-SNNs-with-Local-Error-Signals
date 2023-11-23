@@ -1,6 +1,6 @@
 # Learnable-Leakage-and-Onset-Spiking-Self-Attention-in-SNNs-with-Local-Error-Signals
 
-## Code for **Learnable Leakage and Onset Spiking Self-Attention in SNNs with Local Error Signals**.
+Code for **Learnable Leakage and Onset Spiking Self-Attention in SNNs with Local Error Signals**.
 
 MNIST, Fashion-MNIST and CIFAR10 dataset can be available from [torchvision](https://github.com/pytorch/vision).
 

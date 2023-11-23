@@ -3,6 +3,8 @@
 
 Codes for **Learnable Leakage and Onset Spiking Self-Attention in SNNs with Local Error Signals**.
 
+**If you need to use our code, please be sure to cite it. Our paper is currently under review and once it is published we will provide the citation details for your reference.**
+
 
 
 ### Dataset:
